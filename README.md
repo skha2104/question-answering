@@ -6,7 +6,7 @@ NOTE: The papers published in the same year are in no particular order.
 
 ## Open Domain Q/A
 * [2020] Explain Anything Like I'm Five: A Model for Open Domain Long Form Question Answering
-    * Blog and Code: https://yjernite.github.io/lfqa.html#generation 
+    * Blog and Code: https://yjernite.github.io/lfqa.html 
 * [2020] Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
     * Paper: https://arxiv.org/pdf/2005.11401.pdf
 * [2020] Dense Passage Retrieval for Open-Domain Question Answering
